@@ -1,0 +1,5 @@
+1. Local Class
+2. Anonymous Class
+3. Interface (Difference between Java7, Java8 and Java9+)
+4. Method calling between => private, default and static
+5. Dynamic method dispatch => run time polymorphism
